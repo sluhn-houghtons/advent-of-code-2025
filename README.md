@@ -1,14 +1,17 @@
 # 🎄 ADVENT OF CODE 🎅
+
 This is a template repo for admin of code using Jupyter notebooks.
-Despite that Jupyter notebooks are typically used with Python, you can participate with *any* programming language.
+Despite that Jupyter notebooks are typically used with Python, you can participate with _any_ programming language.
 You can find a list of other Jupyter kernels for other programming languages [here](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels).
 
 If you would like to use this template, please fork this repo on Github so you can commit your own solutions.
 
 ## About Advent of Code
+
 Advent of code, like the name suggests, is an advent calendar of coding problems for 12 days.
 
 Here's the gist:
+
 - Everyday, you get a 2-part coding problem and a unique puzzle input.
 - There is a folder in _./src_ for each day with a template jupyter notebook and an empty input file.
 - Try to solve the problem and enter your output into the site and see if it's right.
@@ -18,6 +21,7 @@ Here's the gist:
 Read more about it here --> [Advent of Code](https://adventofcode.com/2025/about)
 
 ## Should you use AI?
+
 Using AI for AOC defeats the purpose of problem solving and learning. Don't be a vibe-scrooge!
 
 The creator advent of code puts it perfectly:
@@ -25,7 +29,9 @@ The creator advent of code puts it perfectly:
 _If you send a friend to the gym on your behalf, would you expect to get stronger? Advent of Code puzzles are designed to be interesting for humans to solve - no consideration is made for whether AI can or cannot solve a puzzle. If you want practice prompting an AI, there are almost certainly better exercises elsewhere designed with that in mind._
 
 ## Getting started with Jupyter and Python
+
 For using vs code:
+
 - Install the juptyer extension
 
 <img src='static/jupyter.png' width="400px">
@@ -37,17 +43,29 @@ For using vs code:
 - You might be prompted to install other dependencies or extensions
 
 - Enter the following in the command line of this repo:
+
 ```
 python3 -m venv ./venv
 ```
+
 - This creates a virtual env for you to run python
 
 - Then activate it by entering the following into the command line:
-windows
+  windows
+
 ```
 source ./venv/Scripts/activate
-``` 
+```
+
 mac/linux
+
 ```
 source ./venv/bin/activate
-``` 
+```
+<img src='static/kernel-select.png' width="400px">
+
+To select the kernel for the notebook click on the "select kernel" option in the top-right.
+
+<img src='static/kernel-dropdown.png' width="400px">
+
+Then select the kernel running in your venv in the dropdown.
