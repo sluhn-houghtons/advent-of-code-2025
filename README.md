@@ -1,6 +1,6 @@
 # 🎄 ADVENT OF CODE 🎅
 
-This is a template repo for admin of code using Jupyter notebooks.
+This is a template repo for advent of code using Jupyter notebooks.
 Despite that Jupyter notebooks are typically used with Python, you can participate with _any_ programming language.
 You can find a list of other Jupyter kernels for other programming languages [here](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels).
 
