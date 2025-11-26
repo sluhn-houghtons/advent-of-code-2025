@@ -1,6 +1,8 @@
 # 🎄 ADVENT OF CODE 🎅
-This is a template repo for admin of code using jupyter notebooks with python.
-You can participate with any programming language--not just python.
+This is a template repo for admin of code using Jupyter notebooks.
+Despite that Jupyter notebooks are typically used with Python, you can participate with *any* programming language.
+You can find a list of other Jupyter kernels for other programming languages [here](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels).
+
 If you would like to use this template, please fork this repo on Github so you can commit your own solutions.
 
 ## About Advent of Code
@@ -22,7 +24,7 @@ The creator advent of code puts it perfectly:
 
 _If you send a friend to the gym on your behalf, would you expect to get stronger? Advent of Code puzzles are designed to be interesting for humans to solve - no consideration is made for whether AI can or cannot solve a puzzle. If you want practice prompting an AI, there are almost certainly better exercises elsewhere designed with that in mind._
 
-## Getting started
+## Getting started with Jupyter and Python
 For using vs code:
 - Install the juptyer extension
 
